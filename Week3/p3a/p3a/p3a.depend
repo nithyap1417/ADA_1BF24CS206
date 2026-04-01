@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1774432241 source:c:\users\bmscecse-l4\desktop\1bf24cs209_ada lab\p3a\p3a\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1774432248 source:c:\users\bmscecse-l4\desktop\1bf24cs209_ada lab\p3b.c
+	<stdio.h>
+	<stdlib.h>
+
